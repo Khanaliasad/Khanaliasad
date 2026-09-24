@@ -6,7 +6,7 @@
 
 Software engineer with **4+ years of professional experience** building and maintaining **e-commerce platforms, SaaS products, ERP systems, and business applications**.
 
-My core experience is with **Laravel, Magento 2, PHP, MySQL, React, Next.js, and Livewire**. I enjoy working across the full product lifecycle — from understanding requirements and writing code to integrations, deployment, optimization, and post-launch improvements.
+My core experience is with **Laravel, Magento 2, PHP, MySQL, Wordpress, React, Next.js, and Livewire**. I enjoy working across the full product lifecycle — from understanding requirements and writing code to integrations, deployment, optimization, and post-launch improvements.
 
 I care about writing software that is **clean, practical, maintainable, and prepared for future development**.
 
@@ -61,7 +61,7 @@ I care about writing software that is **clean, practical, maintainable, and prep
 
 ### 🛒 E-Commerce & Business Systems
 
-`E-commerce` · `Magento 2` · `ERP Systems` · `SaaS Applications` · `POS Systems` · `Inventory Systems`
+`E-commerce` · `Magento 2` · `ERP Systems` · `SaaS Applications` · `POS Systems` · `Inventory Systems` · `WooCommerce`
 
 ### 🗄️ Databases
 
@@ -77,7 +77,7 @@ I care about writing software that is **clean, practical, maintainable, and prep
 
 ### 🔧 Tools
 
-`Git` · `Bitbucket` · `VS Code` · `Postman` · `DBeaver` · `Termius`
+`Git` · `Bitbucket` · `VS Code` · `Postman` · `DBeaver` · `Termius` · `Wordpress`
 
 ---
 
